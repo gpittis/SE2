@@ -41,6 +41,14 @@ The rating of this repository can be found below and is automatically updated.
 - The Cyclopt board is updated throughout the semester, with bi-weekly assessments
 
 ## Deliverable 2
+- CI/CD Implementation
+- Testing strategy implementation
+  - Backend Testing (Unit Tests)
+    - The unit tests are located in the test folder
+    - Use of the c8, ava, and got libraries.
+  - Frontend Testing (Acceptance Tests)
+- Deploy to Render
+- 
 
 ## The rest of the team
 
