@@ -52,6 +52,8 @@ The rating of this repository can be found below and is automatically updated.
 - Deploy to Render
 - Testing Coverage
   - Unit tests must cover at least 90% of code
+ 
+## Deliverable 3
 
 ## The rest of the team
 
