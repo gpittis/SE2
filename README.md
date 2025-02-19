@@ -55,10 +55,10 @@ The rating of this repository can be found below and is automatically updated.
  
 ## Deliverable 3
 - Evaluation of code quality using the Cyclopt platform and tools across all active branches
-- We improved :
+- We improved the following metrics:
   - Maintainability Ιndex
   - Comment Density
-- We reduced :
+- We reduced the following metrics:
   - Unused Variables
   - Security Issues
 
