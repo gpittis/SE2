@@ -54,6 +54,13 @@ The rating of this repository can be found below and is automatically updated.
   - Unit tests must cover at least 90% of code
  
 ## Deliverable 3
+- Evaluation of code quality using the Cyclopt platform and tools across all active branches
+- We improved :
+  - Maintainability Ιndex
+  - Comment Density
+- We reduced :
+  - Unused Variables
+  - Security Issues
 
 ## The rest of the team
 
