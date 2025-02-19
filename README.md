@@ -50,7 +50,8 @@ The rating of this repository can be found below and is automatically updated.
     - The acceptance tests are located in the cypress/e2e folder
     - Use of the cypress library
 - Deploy to Render
-- 
+- Testing Coverage
+  - Unit tests must cover at least 90% of code
 
 ## The rest of the team
 
