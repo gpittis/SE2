@@ -61,6 +61,7 @@ The rating of this repository can be found below and is automatically updated.
 - We reduced the following metrics:
   - Unused Variables
   - Security Issues
+- The project quality is **A** !!
 
 ## The rest of the team
 
