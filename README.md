@@ -47,6 +47,8 @@ The rating of this repository can be found below and is automatically updated.
     - The unit tests are located in the test folder
     - Use of the c8, ava, and got libraries.
   - Frontend Testing (Acceptance Tests)
+    - The acceptance tests are located in the cypress/e2e folder
+    - Use of the cypress library
 - Deploy to Render
 - 
 
