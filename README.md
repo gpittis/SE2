@@ -1,4 +1,4 @@
-# Software Engineering 1 Projects 2024-25
+# Software Engineering 2 Projects 2024-25
 
 <p align=center>
 <img src="https://issel.ee.auth.gr/wp-content/uploads/2021/06/logo.png" height=100px width:auto />
