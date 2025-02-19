@@ -29,7 +29,18 @@ The rating of this repository can be found below and is automatically updated.
 --->
 
 ## Deliverable 1
-This will be updated when the first assignment is announced. More deliverables will be added when announced.
+- Utilization of existing Swagger files from the Software Engineering 1 course
+- API description transformation into a real server using SwaggerHub or Swagger Editor
+- Upload of generated code to a new GitHub repository
+- Creation of separate branches for each team member in the GitHub repository for collaboration
+- Creation of a project on the Cyclopt platform and importing the existing features of the system
+- Inclusion of future tasks required for project implementation
+- Task point assignment based on difficulty (1 point = 1 person-hour)
+- Application of the point system to estimate task completion time
+- The project follows an agile methodology
+- The Cyclopt board is updated throughout the semester, with bi-weekly assessments
+
+## Deliverable 2
 
 ## The rest of the team
 
