@@ -60,7 +60,7 @@ The rating of this repository can be found below and is automatically updated.
   - Comment Density
 - We reduced the following metrics:
   - Unused Variables
-  - Security Issues
+  - Security Vulnerabilities
 - The project quality is **A** !!
 
 ## The rest of the team
