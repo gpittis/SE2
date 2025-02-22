@@ -29,7 +29,7 @@ The rating of this repository can be found below and is automatically updated.
 --->
 
 ## Deliverable 1
-- Utilization of existing Swagger files from the Software Engineering 1 course
+- Utilization of existing Swagger files from the [Software Engineering 1 course](https://github.com/gpittis/SE1)
 - API description transformation into a real server using SwaggerHub or Swagger Editor
 - Upload of generated code to a new GitHub repository
 - Creation of separate branches for each team member in the GitHub repository for collaboration
